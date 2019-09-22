@@ -1,0 +1,14 @@
+---
+layout: post
+title: "1. Goals and Plans"
+---
+Using free and open source material, I will practice and go through the steps to become a better InfoSec Specialist.
+
+I plan to:
+
+  1. Gather information from Youtube, books and internet
+  2. Organize knowledge, preferrably using MITRE ATT&amp;CK framework
+  3. Practice with VMs (Vulnhub/Metasploit) and ultimately on “hack the box”
+  4. Document
+
+th
